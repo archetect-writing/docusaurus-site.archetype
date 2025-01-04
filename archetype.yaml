@@ -1,0 +1,9 @@
+---
+description: "Docusaurus Site"
+authors: ["Jimmie Fulton <jimmie.fulton@gmail.com>"]
+languages: ["JavaScript", "TypeScript", "Markdown"]
+frameworks: []
+tags: ["site-generator"]
+
+requires:
+  archetect: "2.0.0"
