@@ -7,5 +7,5 @@ This is an [Archetect](https://archetect.github.io/) archetype.
 To generate content from this Archetype, copy and execute the following command:
 
 ```sh
-  archetect render git@github.com:archetect-writing/docusaurus-site.archetype.git
+archetect render git@github.com:archetect-writing/docusaurus-site.archetype.git#v1
 ```
